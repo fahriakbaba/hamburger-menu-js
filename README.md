@@ -1,2 +1,2 @@
 ﻿# hamburger-menu-js
-** using classList and toggle in vanilla javascript
+* using classList and toggle in vanilla javascript
